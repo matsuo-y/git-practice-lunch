@@ -1,2 +1,2 @@
-# my-site-github-lunch
+# git-practice-lunch
 昼食用のリポジトリ
